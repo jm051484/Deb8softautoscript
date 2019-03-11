@@ -17,7 +17,7 @@ apt-get install build-essential -y
 # Get the Softether Packages via wget and Save it into /root
 cd /root
 wget https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.29-9680-rtm/softether-vpnserver-v4.29-9680-rtm-2019.02.28-linux-x64-64bit.tar.gz
-tar zxf softether-vpnserver-v4.10-9473-beta-2014.07.12-linux-x64-64bit.tar.gz
+tar zxf softether-vpnserver-v4.29-9680-rtm-2019.02.28-linux-x64-64bit.tar.gz
 # Making files, manual input needed
 cd vpnserver
 clear
