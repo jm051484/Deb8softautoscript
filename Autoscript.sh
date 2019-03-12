@@ -12,7 +12,6 @@
 # Good Luck!
 # -------------------------------------------------------
 # Updating Repositories and Installing Development Packages
-apt-get update
 apt-get install build-essential -y
 # Get the Softether Packages via wget and Save it into /root
 cd /root
